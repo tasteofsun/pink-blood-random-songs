@@ -10,7 +10,7 @@ Welcome to my **Pink Blood Random Songs Recommendation**, a simple Java applicat
 ## 🛠 Installation & Usage
 ### 1️⃣ Clone this repository:
 ```sh
-git clone https://github.com/nammelie/pink-blood-random-songs.git
+git clone https://github.com/tasteofsun/pink-blood-random-songs.git
 ```
 
 ### 2️⃣ Open the project in your preferred Java IDE:
