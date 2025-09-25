@@ -4,7 +4,9 @@ Welcome to my **Pink Blood Random Songs Recommendation**, a simple Java applicat
 
 ## 🎶 Features
 ✅ Randomly selects a K-pop song from a curated list.
+
 ✅ Displays the group, song title, release year, concept, and MV link.
+
 ✅ Reads song data from a JSON file for easy updates and expansion.
 
 ## 🛠 Installation & Usage
